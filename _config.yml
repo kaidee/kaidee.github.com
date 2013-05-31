@@ -10,14 +10,14 @@ var:
   tags_path : /tags.html
   rss_path: /atom.xml
 
-production_url : http://blog.teidihen.com/ # or your custom domain name
-title : Hang
+production_url : http://kaidee.tk/ # or your custom domain name
+title : 某李探花
 
 author :
-  name : Hang
-  email : liuhang0077@gmail.com
-  github : liuhang0077
-  twitter : hangzai
+  name : Kaidee
+  email : lkaidee@gmail.com
+  github : kaidee
+  twitter : vividlee2010
   feedbuder : feedname
 
 exclude: .rbenv-version
