@@ -5,7 +5,9 @@ category: test
 tags: [Jekyll, test]
 ---
 ## this is a image
-`(define double (lambda (x) (+ x x)))
+
+`
+(define double (lambda (x) (+ x x)))
 (double 12)            ; return 24
 (double (* 3 4))       ; return 24
 (define x 3)
@@ -18,7 +20,8 @@ tags: [Jekyll, test]
         (- 0 n)
         n))
 (abss -12)
-;sss`
+;sss
+`
 ![](/images/usercolor.png)
 <pre>
 	(define double (lambda (x) (+ x x)))
