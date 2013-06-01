@@ -5,7 +5,6 @@ description: ""
 category: python
 tags: [python, async]
 ---
-{% include JB/setup %}
 
 异步编程，是目前解决性能问题的一个大方向。其中怎么样实现异步有多种不同的实现方式。通过异步的方式，能够实现更高的资源利用和响应性。在网络和图形界面编程里面，一种非常普遍的做法是基于事件来实现用户响应性。也就是程序利用一个主事件循环，不断的处理触发的事件。而对应事件的处理是通过回调(callback)的形式注册到事件循环中，当对应的事件触发的时候，主循环就是调用对应的回调。
 
@@ -26,8 +25,8 @@ twisted是一个Python的基于事件循环的网络库，里面实现了基本�
 # 同步实现
 
 假设我们利用同步的方式来完成上述的功能，对应的代码应该是像下面这样：
-
-{% highlight py linenos %}
+下面是代码块测试：=========
+`
 def stringReceived(self, shortUrl):
 	self.transport.loseConnection()
 	self.downloadVideoFromShortUrl(shortUrl)
@@ -38,8 +37,22 @@ def downloadVideoFromShortUrl(self, shortUrl):
 		video = downloadVideoFromUrl(url)
 		storeVideo(video)
 	except BaseException, e:
-		print "exception:", e{% endhighlight %}
+		print "exception:", e
+`
+=============
+<pre>
+def stringReceived(self, shortUrl):
+	self.transport.loseConnection()
+	self.downloadVideoFromShortUrl(shortUrl)
 
+def downloadVideoFromShortUrl(self, shortUrl):
+	try:
+		url = transformShortUrl(shortUrl)
+		video = downloadVideoFromUrl(url)
+		storeVideo(video)
+	except BaseException, e:
+		print "exception:", e
+</pre>
 其中，`stringReceived`函数会在接收到客户端发送过来的短地址之后调用，参数就是对应的`shortUrl`。在`downloadVideoFromShortUrl`里面的是程序的主要逻辑，它按顺序的调用了shortUrl转换、从url下载地址视频和本地储存视频文件。假设每个函数都是同步调用的话，逻辑非常清晰，看代码的时候直接从上往下读就可以了。其中也包含了错误的处理，也就是一个大的try…catch，其中`transformShortUrl`和`downloadVideoFromUrl`会在出现错误的时候抛`BaseException`。
 
 但是同步代码的问题就在于，当你进程阻塞在任何一个同步调用上的时候，你的进程什么都干不了了。所以这个时候我们就会利用异步调用来解决这个问题。假设`transformShortUrl`、`downloadVideoFromUrl`都变成了异步调用。一般来说异步调用的结果我们都会通过回调的方式来处理。现在看看代码是怎么样。
