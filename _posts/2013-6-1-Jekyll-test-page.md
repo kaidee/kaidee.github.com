@@ -6,7 +6,7 @@ tags: [Jekyll, test]
 ---
 ## this is a image
 
-`
+`<code>
 (define double (lambda (x) (+ x x)))
 (double 12)            ; return 24
 (double (* 3 4))       ; return 24
@@ -21,7 +21,7 @@ tags: [Jekyll, test]
         n))
 (abss -12)
 ;sss
-`
+`</code>
 ![](/images/usercolor.png)
 <pre>
 	(define double (lambda (x) (+ x x)))
