@@ -1,3 +1,10 @@
+---
+layout: post
+title: ""
+category: OS
+tags: [Raspbian,树莓派]
+---
+
 树莓派已上手有一段时间了，现在来记录分享一下Raspbian的初始配置工作。
 
 首次启动将出现系统初始配置的界面，这个界面在也可以在之后的终端窗口中通过sudo raspi-config激活。先来看一下各配置项的含义：
