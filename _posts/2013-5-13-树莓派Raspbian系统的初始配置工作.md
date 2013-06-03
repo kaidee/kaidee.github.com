@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "树莓派Raspbian系统初始配置"
 category: OS
 tags: [Raspbian,树莓派]
 ---
