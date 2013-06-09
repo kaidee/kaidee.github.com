@@ -2,7 +2,7 @@
 layout: post
 title: "树莓派Raspbian系统初始配置"
 category: OS
-tags: [Raspbian,树莓派]
+tags: [Raspbian, 树莓派]
 ---
 
 树莓派已上手有一段时间了，现在来记录分享一下Raspbian的初始配置工作。
