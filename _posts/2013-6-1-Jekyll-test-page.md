@@ -47,6 +47,7 @@ public class HelloWorld {
 }
 {% endhighlight %}
 
+{% highlight php %}
 	<?php
 
 	// change the following paths if necessary
@@ -61,3 +62,4 @@ public class HelloWorld {
 
 	require_once($yii);
 	Yii::createWebApplication($config)->run();
+{% endhighlight %}
