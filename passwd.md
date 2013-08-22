@@ -1,7 +1,7 @@
 ---
 layout: default
 title: password
-permalink: /password/
+permalink: /passwd/
 ---
 
 Simple
