@@ -30,7 +30,7 @@ taobao.com 	|vividlee2010 	|t
 
 百度云		|vividlee2010@gmail.com 	|b
 
-			|751116190 	|b
+			`|751116190 	|b`
 
 建设银行网银 |6210817200006491953 	|j
 
