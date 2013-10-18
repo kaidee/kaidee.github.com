@@ -24,9 +24,9 @@ ickey.com 	|vividlee2010@gmail.com 	|i
 
 v2ex.com 	|kaidee 	|v
 
-支付宝登陆	|vividlee200@gmail.com 	|a
+支付宝登陆	|lkaidee@gmail.com 	|a
 
-taobao.com 	|vividlee2010 	|t
+taobao.com 	|vividlee2010/lkaidee@gmail.com 	|t
 
 百度云		|vividlee2010@gmail.com 	|b
 
@@ -40,11 +40,13 @@ weibo.com 	|viivdlee2010@sina.com 	|w
 
 amazon.cn 	|lkaidee@gmail.com 	|a
 
+yhd.com     |lkaidee@gmail.com  |1
+
 pocket 		|Mathison 	|p
 
 meizu.com 	|vividlee2010@flyme.cn 	|m
 
-jd.com 		|vividlee2010 	|j
+jd.com 		|vividlee2010/lkaidee@gmail.com 	|j
 
 tangcha.tc 	|vividlee2010@gmail.com 	|t
 
