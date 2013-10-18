@@ -10,6 +10,8 @@ Simple
 
 renren.com 	|vividlee2010@gmail.com 	|dr
 
+搜狐 		|vividlee2010@sohu.com 		|d
+
 建设银行查询 	|5
 
 Middle
