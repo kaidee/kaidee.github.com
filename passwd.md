@@ -69,3 +69,5 @@ bank.pingan.com 	|vividlee 	|6222980021662707 	|p
 Others
 ==========
 vpncloud.me 	|Mathison 	|name
+
+Ripple Address: rhKwqijWFqy11wWoWBXaqi4qedGZTbGPc1   Secret Account key: snPkdkNaXKv3a4uFcuLNk85HjTJC1
