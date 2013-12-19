@@ -4,61 +4,22 @@ title: search
 permalink: /search/
 ---
 
-<!--
-<style type="text/css">
-#Search {
-padding: 8px 0px 0px 0px;
-}
-#Top, .item, .item_node, #Search div, .dock_area, .topic_buttons, .super.button, .topic_buttons:hover, .super.button:hover, #Wrapper {background-image: none !important;}
-#Search div {background-color: #fff !important;border-radius: 19px;}
-.topic_buttons {background-color: #eee;}
-.normal.button,.normal.buttonhover {text-shadow: 0 0 0 #fff;}
-.box, .normal.button, .normal.button:hover, textarea,input.sl {text-shadow: 0 0 0 #fff;box-shadow: 0 0 0 #fff !important;}
-.box {border-width: 0;}
-img[alt="kaidee.tk"] {-webkit-filter: invert(100%);}
-a, input {transition: all .3s;}
-</style>
-
-
-<div class="wrapper" id="cse" style="width: 100%;">
-<br>
-<br>
-
-  <div id='Search'>
-    <div class='search_input'>
-      <input data-domain='kaidee.tk' id='q' maxlength='600' name='q' type='text'>
-    </div>
-  </div>
-</div>
-
-
- <script src="http://www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  
-  jQuery(function($) {
-    window.rabel.search_engine_url = "http://www.google.com.hk/search?q=";
-    
-  });
-
-</script>
-
--->
 <link href="/assets/css/search.css" rel="stylesheet">
 
 <div class="wrapper" id="cse" style="width: 100%;">
-<br>
-<br>
-<script type="text/javascript"> 
-function googlesearch () { 
-var wq=document.getElementsByName("wq")[0].value; 
-var link="http://www.google.com.hk/search?sitesearch=kaidee.tk&q="+wq; 
-window.open(link); } 
-</script> 
-<form class="well form-search">
-<input type="text" name="wq" class="input-xxlarge search-query"/>
-<input type="submit" onclick="javascript:googlesearch()" value="Google" class="btn"/> 
-</form>
-<br>
-<br>
-<br>
+    <br>
+    <br>
+    <script type="text/javascript"> 
+        function googlesearch () { 
+        var wq=document.getElementsByName("wq")[0].value; 
+        var link="http://www.google.com.hk/search?sitesearch=kaidee.tk&q="+wq; 
+        window.open(link); } 
+    </script> 
+    <form class="well form-search">
+        <input type="text" name="wq" class="input-xxlarge search-query"/>
+        <input type="submit" onclick="javascript:googlesearch()" value="Google" class="btn"/> 
+    </form>
+    <br>
+    <br>
+    <br>
 </div>
