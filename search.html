@@ -3,26 +3,6 @@ layout: default
 title: search
 permalink: /search/
 ---
-<div class="wrapper" id="cse" style="width: 100%;">Loading</div>
-<br>
-<br>
-
-<div id='Search'>
-<div class='search_input'>
-<input data-domain='kaidee.tk' id='q' maxlength='600' name='q' type='text'>
-</div>
-</div>
-
-
-<script src="http://www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  
-  jQuery(function($) {
-    window.rabel.search_engine_url = "http://www.google.com.hk/search?q=";
-    
-  });
-
-</script>
 
 <style type="text/css">
 #Search {
@@ -37,3 +17,27 @@ padding: 8px 0px 0px 0px;
 img[alt="kaidee.tk"] {-webkit-filter: invert(100%);}
 a, input {transition: all .3s;}
 </style>
+
+
+<div class="wrapper" id="cse" style="width: 100%;">
+<br>
+<br>
+
+  <div id='Search'>
+    <div class='search_input'>
+      <input data-domain='kaidee.tk' id='q' maxlength='600' name='q' type='text'>
+    </div>
+  </div>
+</div>
+
+
+<!-- <script src="http://www.google.com/jsapi" type="text/javascript"></script> -->
+<script type="text/javascript"> 
+  
+  jQuery(function($) {
+    window.rabel.search_engine_url = "http://www.google.com.hk/search?q=";
+    
+  });
+
+</script>
+
