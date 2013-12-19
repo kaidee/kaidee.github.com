@@ -43,6 +43,7 @@ a, input {transition: all .3s;}
 </script>
 
 -->
+<link href="http://libs.baidu.com/bootstrap/2.0.4/css/bootstrap.min.css" rel="stylesheet">
 
 <div class="wrapper" id="cse" style="width: 100%;">
 <br>
@@ -50,8 +51,13 @@ a, input {transition: all .3s;}
 <script type="text/javascript"> 
 function googlesearch () { 
 var wq=document.getElementsByName("wq")[0].value; 
-var link="http://www.google.com/search?domains=kaidee.tk&sitesearch=kaidee.tk&q="+wq; 
+var link="http://www.google.com.hk/search?domains=kaidee.tk&sitesearch=kaidee.tk&q="+wq; 
 window.open(link); } 
 </script> 
-<input type="text" name="wq"/><input type="submit" onclick="javascript:googlesearch()" value="Google it" /> 
+<form class="well form-search">
+<input type="text" name="wq" maxlength='600' class="input-medium search-query"/>
+<input type="submit" onclick="javascript:googlesearch()" value="Google" class="btn"/> 
+</form>
+<br>
+<br>
 </div>
