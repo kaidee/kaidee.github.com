@@ -4,6 +4,7 @@ title: search
 permalink: /search/
 ---
 
+<!--
 <style type="text/css">
 #Search {
 padding: 8px 0px 0px 0px;
@@ -31,7 +32,7 @@ a, input {transition: all .3s;}
 </div>
 
 
-<!-- <script src="http://www.google.com/jsapi" type="text/javascript"></script> -->
+ <script src="http://www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript"> 
   
   jQuery(function($) {
@@ -41,3 +42,16 @@ a, input {transition: all .3s;}
 
 </script>
 
+-->
+
+<div class="wrapper" id="cse" style="width: 100%;">
+<br>
+<br>
+<script type="text/javascript"> 
+function googlesearch () { 
+var wq=document.getElementsByName("wq")[0].value; 
+var link="http://www.google.com/search?domains=kaidee.tk&sitesearch=kaidee.tk&q="+wq; 
+window.open(link); } 
+</script> 
+<input type="text" name="wq"/><input type="submit" onclick="javascript:googlesearch()" value="Google it" /> 
+</div>
