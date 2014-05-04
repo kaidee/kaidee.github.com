@@ -57,6 +57,8 @@ tangcha.tc 	|vividlee2010@gmail.com 	|t
 
 wandoujia.com   |137...0436     |w
 
+dnspod.cn 	lkaidee@gmail.com 	|d
+
 Strong
 ==========
 lkaidee@gmail.com 	|lkaidee 	|g
@@ -78,3 +80,5 @@ vpncloud.me 	|Mathison 	|name
 10086.cn        |shoujihao  |100860     |vividlee2010@gmail.com
 
 Ripple Address: rhKwqijWFqy11wWoWBXaqi4qedGZTbGPc1   Secret Account key: snPkdkNaXKv3a4uFcuLNk85HjTJC1
+
+zxisha@163.com H***121015
