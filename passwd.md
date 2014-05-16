@@ -59,6 +59,8 @@ wandoujia.com   |137...0436     |w
 
 dnspod.cn 	lkaidee@gmail.com 	|d
 
+e.szsi.gov.cn 	|身份证号 		|S
+
 Strong
 ==========
 lkaidee@gmail.com 	|lkaidee 	|g
@@ -72,6 +74,8 @@ bank.pingan.com 	|vividlee 	|6222980021662707 	|p
 邮政储蓄 		|vividlee 	|6221505840002394778 	|y
 
 阿里云 			|kaidee 	|a
+
+中国银联  	|137 	|lkaidee#gmail.co 		|u
 
 Others
 ==========
