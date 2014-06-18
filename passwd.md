@@ -8,9 +8,9 @@ Simple
 ==========
 招商银行 	|6225887863727323 	 |5
 
-renren.com 	|vividlee2010@gmail.com 	|dr
+renren.com 	|vividlee2010[AT]gmail.com 	|dr
 
-搜狐 		|vividlee2010@sohu.com 		|d
+搜狐 		|vividlee2010[AT]sohu.com 		|d
 
 建设银行查询 	|5
 
@@ -20,17 +20,17 @@ QQ.com 	|	q
 
 about.me 	|Mathison 	a
 
-github.com 	|lkaidee@gmail.com 	|g 	|kaidee
+github.com 	|lkaidee[AT]gmail.com 	|g 	|kaidee
 
-ickey.com 	|vividlee2010@gmail.com 	|i
+ickey.com 	|vividlee2010[AT]gmail.com 	|i
 
 v2ex.com 	|kaidee 	|v
 
-支付宝登陆	|lkaidee@gmail.com 	|a
+支付宝登陆	|lkaidee[AT]gmail.com 	|a
 
-taobao.com 	|vividlee2010/lkaidee@gmail.com 	|t
+taobao.com 	|vividlee2010/lkaidee[AT]gmail.com 	|t
 
-百度云		|vividlee2010@gmail.com 	|b
+百度云		|vividlee2010[AT]gmail.com 	|b
 
 			`|751116190 	|b`
 
@@ -38,32 +38,34 @@ taobao.com 	|vividlee2010/lkaidee@gmail.com 	|t
 
 Gravatars.com
 
-weibo.com 	|viivdlee2010@sina.com 	|w
+weibo.com 	|viivdlee2010[AT]sina.com 	|w
             |13787116942            |w
 
-amazon.cn 	|lkaidee@gmail.com 	|a
+amazon.cn 	|lkaidee[AT]gmail.com 	|a
 
-yhd.com     |lkaidee@gmail.com  |1
+yhd.com     |lkaidee[AT]gmail.com  |1
 
 pocket 		|Mathison 	|p
 
-meizu.com 	|vividlee2010@flyme.cn 	|m
+meizu.com 	|vividlee2010[AT]flyme.cn 	|m
 
-jd.com 		|vividlee2010/lkaidee@gmail.com 	|j
+jd.com 		|vividlee2010/lkaidee[AT]gmail.com 	|j
 
-tangcha.tc 	|vividlee2010@gmail.com 	|t
+tangcha.tc 	|vividlee2010[AT]gmail.com 	|t
 
-七牛          |lkaidee@gmail.com          |7
+七牛          |lkaidee[AT]gmail.com          |7
 
 wandoujia.com   |137...0436     |w
 
-dnspod.cn 	lkaidee@gmail.com 	|d
+dnspod.cn 	lkaidee[AT]gmail.com 	|d
 
 e.szsi.gov.cn 	|身份证号 		|S
 
+www.12306.cn 	|vividlee2010[AT]gmail.com 	|1
+
 Strong
 ==========
-lkaidee@gmail.com 	|lkaidee 	|g
+lkaidee[AT]gmail.com 	|lkaidee 	|g
 
 boc.cn 		|vividlee 	|6216617500004112595 	|z
 
@@ -81,11 +83,11 @@ Others
 ==========
 vpncloud.me 	|Mathison 	|name
 
-10086.cn        |shoujihao  |100860     |vividlee2010@gmail.com
+10086.cn        |shoujihao  |100860     |vividlee2010[AT]gmail.com
 
 Ripple Address: rhKwqijWFqy11wWoWBXaqi4qedGZTbGPc1   Secret Account key: snPkdkNaXKv3a4uFcuLNk85HjTJC1
 
-zxisha@163.com H***121015
+zxisha[AT]163.com H***121015
 
 152********  |121136
 
