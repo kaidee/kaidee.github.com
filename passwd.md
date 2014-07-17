@@ -77,7 +77,9 @@ bank.pingan.com 	|vividlee 	|6222980021662707 	|p
 
 阿里云 			|kaidee 	|a
 
-中国银联  	|137 	|lkaidee#gmail.co 		|u
+中国银联  	|137 	|lkaidee#gmail.com		|u
+
+炉石传说  	|身份证号 	|lkaidee#gmail.com 		|l
 
 Others
 ==========
