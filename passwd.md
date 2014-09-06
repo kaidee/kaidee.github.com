@@ -63,6 +63,8 @@ e.szsi.gov.cn 	|身份证号 		|S
 
 www.12306.cn 	|vividlee2010[AT]gmail.com 	|1
 
+http://www.mangoscn.net/reg/zero/老版魔兽世界 	lkaidee[AT]gmail.com 	|m
+
 Strong
 ==========
 lkaidee[AT]gmail.com 	|lkaidee 	|g
